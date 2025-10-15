@@ -8,3 +8,5 @@ This is a test text
 x = 2
 ```
 ![Puncher Logo](./puncherlogo.png)
+
+![test](puncherlogo.png)
