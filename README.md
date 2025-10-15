@@ -5,5 +5,5 @@ First Repo in Github for DA Bootcamp
 
 This is a test text
 ´´´ Start Coding
-x=2
+x = 2
 
