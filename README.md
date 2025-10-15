@@ -7,4 +7,4 @@ This is a test text
 ``` Start Coding
 x = 2
 ```
-![test](pictue@npuncher logo.png)
+![test](picture@npuncher logo.png)
